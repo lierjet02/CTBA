@@ -1,2 +1,2 @@
 # CTBA
-WM Competing Through Business Analytics 
+W&M Competing Through Business Analytics 
