@@ -1,2 +1,2 @@
-# CTBA
-W&M Competing Through Business Analytics 
+# Python Programming 
+Prerequisite course for W&M Online MSBA Program
